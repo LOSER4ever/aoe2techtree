@@ -761,7 +761,7 @@
     "28410": "Research <b>Caravan</b> (‹cost›)<br>\nTrade Carts and Trade Cogs move 50% faster (so gold accumulates faster).",
     "28411": "Research <b>Thumb Ring</b> (‹cost›)<br>\nArchers fire faster and with 100% accuracy.",
     "28412": "Research <b>Heresy</b> (‹cost›)<br>\nUnits converted by an enemy Monk (or Missionary) die instead of changing to the enemy's color.",
-    "28415": "Research <b>Parthian Tactics</b> (‹cost›)<br>\nMounted Archers have +1 normal/+2 pierce armor; Cavalry Archers have +4, Unique Mounted Archers +2 attack vs. pikemen.",
+    "28415": "Research <b>Parthian Tactics</b> (‹cost›)<br>\nMounted Archers and Arambai have +1 normal/+2 pierce armor, and +2 attack vs. pikemen.",
     "28416": "Research <b>Theocracy</b> (‹cost›)<br>\nIf a group of Monks converts an enemy unit, only one of the Monks must rest afterward.",
     "28419": "Research <b>Yeomen</b> (‹cost›)<br>\nFoot archers have +1 range; towers have +2 attack.",
     "28420": "Research <b>El Dorado</b> (‹cost›)<br>\nEagle Warriors have +40 hit points.",
